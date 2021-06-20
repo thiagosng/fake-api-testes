@@ -1,0 +1,27 @@
+{
+  "grupos": [
+    { "id": 1,
+    "dados": {
+      "grupo": Grupo de exemplo 01,
+      "subgrupo": [
+        "subgrupo 01",
+        "subgrupo 02",
+        "subgrupo 03"
+        ],
+      "formaOrganizacao": [
+        "Coleta de material por meio de punção",
+        "Coleta de material para biopsia"
+        ],
+      "nome": [
+        "biopsia",
+        "tumor",
+        "punção"
+        ],
+      "codigo": [
+        "02-03-04-99",
+        "04-05-98-66",
+        "05-98-96-22"
+        ]
+    }
+   }
+    
