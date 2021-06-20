@@ -1,32 +1,28 @@
 
 {
-  "posts": [
+  "grupos": [
     {
       "id": 1,
-      "title": "Post 1"
+      "grupo": "Grupo 1",
+      "subgrupo": "subgrupo 1",
+      "formaOrganizacao": "Coleta de materiais",
+      "nome": "Coleta",
+      "codigo": "Biopsia"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "grupo": "Grupo 2",
+      "subgrupo": "subgrupo 2",
+      "formaOrganizacao": "Coleta de materiais",
+      "nome": "Coleta",
+      "codigo": "Biopsia"
     },
-    {
+     {
       "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "grupo": "Grupo 3",
+      "subgrupo": "subgrupo 3",
+      "formaOrganizacao": "Coleta de materiais",
+      "nome": "Coleta",
+      "codigo": "puncao"
     },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+  ]
