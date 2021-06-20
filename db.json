@@ -2,7 +2,7 @@
   "grupos": [
     { "id": 1,
     "dados": {
-      "grupo": Grupo de exemplo 01,
+      "grupo": "Grupo de Exemplo 01",
       "subgrupo": [
         "subgrupo 01",
         "subgrupo 02",
