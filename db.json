@@ -1,14 +1,73 @@
 [
   {
     "id": 1,
-    "title": "Post 1"
+    "grupo": "Grupo 01",
+    "subgrupo": [
+        "subgrupo 01",
+        "subgrupo 02",
+        "subgrupo 03"
+        ],
+    "formaOrganizacao": [
+        "Coleta de material por meio de punção",
+        "Coleta de material para biopsia"
+        ],
+      "nome": [
+        "biopsia",
+        "tumor",
+        "punção"
+        ],
+      "codigo": [
+        "02-03-04-99",
+        "04-05-98-66",
+        "05-98-96-22"
+        ]
   },
   {
     "id": 2,
-    "title": "Post 2"
+    "grupo": "Grupo 02",
+    "subgrupo": [
+        "subgrupo 01",
+        "subgrupo 02",
+        "subgrupo 03"
+        ],
+    "formaOrganizacao": [
+        "Coleta de material por meio de punção",
+        "Coleta de material para biopsia"
+        ],
+      "nome": [
+        "biopsia",
+        "tumor",
+        "punção"
+        ],
+      "codigo": [
+        "02-03-04-99",
+        "04-05-98-66",
+        "05-98-96-22"
+        ]
   },
   {
     "id": 3,
-    "title": "Post 3"
+    "grupo": "Grupo 03",
+    "subgrupo": [
+        "subgrupo 01",
+        "subgrupo 02",
+        "subgrupo 03"
+        ],
+    "formaOrganizacao": [
+        "Coleta de material por meio de punção",
+        "Coleta de material para biopsia"
+        ],
+      "nome": [
+        "biopsia",
+        "tumor",
+        "punção"
+        ],
+      "codigo": [
+        "02-03-04-99",
+        "04-05-98-66",
+        "05-98-96-22"
+        ]
   }
 ]
+
+
