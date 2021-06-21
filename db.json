@@ -3,27 +3,58 @@
   "grupos": [
     {
       "id": 1,
-      "grupo": "Grupo 1",
-      "subgrupo": "subgrupo 1",
-      "formaOrganizacao": "Coleta de materiais",
-      "nome": "Coleta",
-      "codigo": "Biopsia"
+      "nome": "Grupo Exemplo 01",
+      "subgrupo": [
+        {
+          "id": 1,
+          "nome": " Subgrupo do grupo 01",
+        },
+        {
+          "id": 2,
+          "nome": " Subgrupo 02 do grupo 01",
+        },
+         {
+          "id": 3,
+          "nome": " Subgrupo 03 do grupo 01",
+        }
+        ]
     },
-    {
-      "id": 2,
-      "grupo": "Grupo 2",
-      "subgrupo": "subgrupo 2",
-      "formaOrganizacao": "Coleta de materiais",
-      "nome": "Coleta",
-      "codigo": "Biopsia"
+    
+     {
+      "id": 1,
+      "nome": "Grupo Exemplo 01",
+      "subgrupo": [
+        {
+          "id": 1,
+          "nome": " Subgrupo do grupo 01",
+        },
+        {
+          "id": 2,
+          "nome": " Subgrupo 02 do grupo 01",
+        },
+         {
+          "id": 3,
+          "nome": " Subgrupo 03 do grupo 01",
+        }
+        ]
     },
      {
-      "id": 3,
-      "grupo": "Grupo 3",
-      "subgrupo": "subgrupo 3",
-      "formaOrganizacao": "Coleta de materiais",
-      "nome": "Coleta",
-      "codigo": "puncao"
+      "id": 1,
+      "nome": "Grupo Exemplo 01",
+      "subgrupo": [
+        {
+          "id": 1,
+          "nome": " Subgrupo do grupo 01",
+        },
+        {
+          "id": 2,
+          "nome": " Subgrupo 02 do grupo 01",
+        },
+         {
+          "id": 3,
+          "nome": " Subgrupo 03 do grupo 01",
+        }
+        ]
     }
-  ]
+    ]
 }
