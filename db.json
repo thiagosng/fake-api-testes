@@ -18,7 +18,11 @@
     {
       "id": 2,
       "grupo": "Grupo 2",
-      "subgrupo": "subgrupo 2",
+      "subgrupo": [
+        "subgrupo 134",
+        "subgrupo 2523",
+        "subgrupo 3005320"
+        ],
       "formaOrganizacao": "Coleta de materiais",
       "nome": "Coleta",
       "codigo": "Biopsia"
@@ -26,7 +30,11 @@
      {
       "id": 3,
       "grupo": "Grupo 3",
-      "subgrupo": "subgrupo 3",
+      "subgrupo": [
+        "subgrupo 1234",
+        "subgrupo 2235",
+        "subgrupo 3004560"
+        ],
       "formaOrganizacao": "Coleta de materiais",
       "nome": "Coleta",
       "codigo": "puncao"
