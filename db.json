@@ -3,17 +3,15 @@
   "grupos": [
     {
       "id": 1,
-      "group": {
       "grupo": "Grupo 1",
       "subgrupo": [
-        "subgrupo 1",
-        "subgrupo 2",
-        "subgrupo 3000"
+        "subgrupo 13144",
+        "subgrupo 2526543",
+        "subgrupo 405320"
         ],
       "formaOrganizacao": "Coleta de materiais",
       "nome": "Coleta",
       "codigo": "Biopsia"
-      }
     },
     {
       "id": 2,
