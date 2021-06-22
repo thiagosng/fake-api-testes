@@ -3,7 +3,7 @@
   "grupos": [
     {
       "id": 1,
-      "group": [
+      "group": {
       "grupo": "Grupo 1",
       "subgrupo": [
         "subgrupo 1",
@@ -13,7 +13,7 @@
       "formaOrganizacao": "Coleta de materiais",
       "nome": "Coleta",
       "codigo": "Biopsia"
-      ]
+      }
     },
     {
       "id": 2,
