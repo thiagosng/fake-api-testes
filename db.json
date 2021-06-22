@@ -34,12 +34,12 @@
     {
       "id": 4,
       "name": "Grupo 01",
-      "grupo": {
+      "grupo": "Grupo de nome 01" {
         "subgrupo": [
           "Kulas Light",
           "Exemplo 02",
           "Exemplo 03"
-          ]
+          ],
         "formaOrganizacao": "Coleta",
         "nome": "puncao",
         "codigo": "92998-3874",
