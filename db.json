@@ -16,21 +16,7 @@
       }
     },
     
-    {
-    "id": 4,
-    "name": "Grupo 01",
-    "grupo": "Grupo 0001" {
-      "subgrupo": [
-        "Kulas Light",
-        "Exemplo 02",
-        "Exemplo 03"
-        ]
-      "formaOrganizacao": "Coleta",
-      "nome": "puncao",
-      "codigo": "92998-3874",
-    }
-  },
-    
+ 
     
     {
       "id": 2,
