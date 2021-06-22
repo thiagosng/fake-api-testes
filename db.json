@@ -30,6 +30,21 @@
       "formaOrganizacao": "Coleta de materiais",
       "nome": "Coleta",
       "codigo": "puncao"
+    },
+    {
+      "id": 4,
+      "name": "Grupo 01",
+      "grupo": {
+        "subgrupo": [
+          "Kulas Light",
+          "Exemplo 02",
+          "Exemplo 03"
+          ]
+        "formaOrganizacao": "Coleta",
+        "nome": "puncao",
+        "codigo": "92998-3874",
     }
+  },
+    
   ]
 }
