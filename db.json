@@ -34,7 +34,7 @@
     {
       "id": 4,
       "name": "Grupo 01",
-      "grupo": "Grupo de nome 01" {
+      "grupo": {
         "subgrupo": [
           "Kulas Light",
           "Exemplo 02",
