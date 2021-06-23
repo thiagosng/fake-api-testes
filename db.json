@@ -37,9 +37,7 @@
       "nome": "Coleta",
       "codigo": "puncao"
     }
-  ]
-},
-{
+  ],
   "subgrupo": [
     {
       "id": 1,
@@ -68,4 +66,3 @@
     }
   ]
 }
-
